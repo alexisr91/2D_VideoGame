@@ -14,7 +14,7 @@ This is one of the most complete project I have ever done until this day. It's a
 
 #### Is this a finished project ?
 
-Yes
+Yes, I will push a project with the same basis but a different version in the near future.
 
 
 #### Which framework and libraries did you use ? 
