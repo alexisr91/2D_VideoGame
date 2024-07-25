@@ -1,7 +1,7 @@
 
 # Description
 
-This is one of the most complete project I have ever done until this day. It's a 2D video game based on Pokemon, I did woth a tutorial
+This is one of the most complete project I have ever done until this day. It's a 2D video game based on Pokemon and the French game Slayersonline. There's another version I will push in the near future on another repo
 
 ## Tech Stack
 
